@@ -1,0 +1,16 @@
+GetColor about his color
+GetColor what color he is
+SetColor to become {Color}
+SetColor to turn {Color}
+SetColor to set {Color}
+Roll to explore the galaxy
+NoNoNo to fly
+NoNoNo if he saw Star Trek
+Blush how awesome he is
+Blush how cute he is
+Crazy what he think's about the last Star Wars movie
+Crazy today is techfest
+Crazy to shake it off
+Alarm about approaching dark forces
+Alarm to patrol
+Yes if he likes techfest

@@ -1,0 +1,26 @@
+{
+  "name": "t3cfest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prestart": "sudo hciconfig hci0 up",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sudo pm2 start index.js && pm2 logs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beeva-marianmoldovan/resin-sense.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-iot-device-sdk": "^1.0.6",
+    "deasync": "^0.1.4",
+    "lodash": "^3.10.1",
+    "log-util": "^1.1.1",
+    "noble": "^1.3.0",
+    "sleep": "^3.0.0",
+    "sphero": "^0.7.0"
+  }
+}

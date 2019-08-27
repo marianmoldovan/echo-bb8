@@ -1,0 +1,11 @@
+{
+  "name": "BB8",
+  "version": "1.0.0",
+  "description": "BB8 Controller",
+  "main": "index.js",
+  "license": "ISC",
+  "dependencies": {
+    "aws-iot-device-sdk": "1.0.6",
+    "uuid": "^2.0.1"
+  }
+}

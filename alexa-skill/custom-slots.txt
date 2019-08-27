@@ -1,0 +1,9 @@
+LIST_OF_COLORS
+
+yellow
+blue
+red
+green
+violet
+coral
+purple

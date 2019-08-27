@@ -1,0 +1,34 @@
+{
+  "intents": [
+    {
+      "intent" : "GetColor"
+    },
+    {
+      "intent" : "SetColor",
+      "slots": [
+        {
+          "name": "Color",
+          "type": "LIST_OF_COLORS"
+        }
+      ]
+    },
+    {
+      "intent" : "Roll"
+    },
+    {
+      "intent" : "NoNoNo"
+    },
+    {
+      "intent" : "Blush"
+    },
+    {
+      "intent" : "Yes"
+    },
+    {
+      "intent" : "Crazy"
+    },
+    {
+      "intent" : "Alarm"
+    }
+  ]
+}
