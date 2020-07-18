@@ -17,7 +17,7 @@
   "dependencies": {
     "aws-iot-device-sdk": "^1.0.6",
     "deasync": "^0.1.4",
-    "lodash": "^3.10.1",
+    "lodash": "^4.17.19",
     "log-util": "^1.1.1",
     "noble": "^1.3.0",
     "sleep": "^3.0.0",
